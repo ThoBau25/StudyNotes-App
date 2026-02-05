@@ -1,4 +1,4 @@
-# StudeNotes-app
+# StudeNotes-App
 The Study-Notes app is designed to create and manage learning tasks, helping users keep track of which tasks are still open and which have already been completed. The goal of the app is to organize learning content in a structured way and support students throughout the school year.
 
 On the home screen, users get an overview of all open and completed learning tasks. Existing tasks can be selected by tapping on them and edited afterwards. In addition, tasks can be deleted using a “swipe to delete” gesture or marked as completed via a selection button.
